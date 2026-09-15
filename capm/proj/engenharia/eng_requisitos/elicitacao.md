@@ -3,8 +3,8 @@
 ## Sumário
 1. [Requisitos funcionais](#requisitos-funcionais)
 2. [Requisitos não funcionais](#requisitos-nao-funcionais)
-3. [Primeira iteração - 14/09/2026 - Franco Mendes](#primeira-iteracao)
-4. [Segunda iteração - 14/09/2026 - Franco Mendes](#segunda-iteracao)
+3. [Primeira iteração - 14/09/2026 - Franco Mendes](#Primeira-iteracao)
+4. [Segunda iteração - 14/09/2026 - Franco Mendes](#Segunda-iteracao)
 
 
 
