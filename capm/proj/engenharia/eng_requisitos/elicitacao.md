@@ -39,10 +39,7 @@ Requisitos funcionais elicitados:
 
 OBS: Os requisitos 1 e 2 exigem a definição de um horizonte de tempo, bem como de alguma restrição no número de portólios possíveis (pois esse número é teoricamente infinito).
 
-## Segunda iteração
-
-
-- 15/09/2026 - Franco Mendes
+## Segunda iteração - 15/09/2026 - Franco Mendes
 
 Descrição: Anotação feita a partir de uma requisição do professor Nelson feita em aula.
 
