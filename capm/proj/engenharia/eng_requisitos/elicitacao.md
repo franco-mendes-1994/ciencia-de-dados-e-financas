@@ -47,7 +47,7 @@ Descrição: Anotação feita a partir de uma requisição do professor Nelson f
 
 Descrição: Realizada após estudo rápido de materiais que explicassem o modelo CAPM, para refinamento dos requisitos funcionais.
 
-Requisitos funcionais elicidados:
+Requisitos funcionais elicitados:
 
 1. Identificação de ativos disponíveis para negociação na B3 do Brasil;
 2. Seleção de ativos para cálculo do Retorno Médio, considerando um período de tempo pré-definido;
