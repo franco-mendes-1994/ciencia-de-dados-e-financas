@@ -1,4 +1,4 @@
-# Documento de requisitos
+# Documento de requisitos 
 
 1. [Especificação de requisitos do usuário](requisitos_usuario.md)
 2. [Especificação de requisitos de sistema](requisitos_sistema.md)
@@ -14,3 +14,14 @@ Versões expandidas e mais detalhadas dos requisitos de usuário, servindo como 
 ## Especificação de Software
 Uma descrição técnica detalhada que funciona como uma ponte entre a análise de requisitos e o design/arquitetura do software, direcionada especificamente para a equipe de desenvolvedores. Inclua aqui o modelo de negócio.
 
+Para o nosso trabalho, será um documento, com 3 sessões em pasta única.
+
+22-09-26
+## Interface usuário:
+Fazer como interface de texto.
+
+## Protótipo:
+
+TAREFA 1: Desenvolver um protótipo não funcional das telas da aplicação
+
+Obs. Professor fez no Anaconda, depois subiu: caminho: eng. > eng. requisitos > docs requisitos
