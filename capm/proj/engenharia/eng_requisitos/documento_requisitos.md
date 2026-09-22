@@ -16,12 +16,12 @@ Uma descrição técnica detalhada que funciona como uma ponte entre a análise 
 
 Para o nosso trabalho, será um documento, com 3 sessões em pasta única.
 
-22-09-26
+
 ## Interface usuário:
 Fazer como interface de texto.
 
 ## Protótipo:
 
-TAREFA 1: Desenvolver um protótipo não funcional das telas da aplicação
+**TAREFA 1:** Desenvolver um protótipo não funcional das telas da aplicação. **22-09-26**
 
-Obs. Professor fez no Anaconda, depois subiu: caminho: eng. > eng. requisitos > docs requisitos
+Obs. Professor fez no Anaconda, depois subiu para o github: caminho: ir no repositório eng. > eng. requisitos > docs requisitos
