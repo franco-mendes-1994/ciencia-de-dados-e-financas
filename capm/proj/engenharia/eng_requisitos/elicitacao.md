@@ -43,6 +43,10 @@ OBS: Os requisitos 1 e 2 exigem a definição de um horizonte de tempo, bem como
 
 Descrição: Anotação feita a partir de uma requisição do professor Nelson feita em aula.
 
+Requisitos não funcionais elicidados:
+
+1. O programa como um todo não pode demorar mais de 5 segundos para concluir os cálculos
+
 ## Terceira iteração - 21/09/2026 - Rachel Adolpho
 
 Descrição: Realizada após estudo rápido de materiais que explicassem o modelo CAPM, para refinamento dos requisitos funcionais.
