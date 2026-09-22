@@ -43,9 +43,19 @@ OBS: Os requisitos 1 e 2 exigem a definição de um horizonte de tempo, bem como
 
 Descrição: Anotação feita a partir de uma requisição do professor Nelson feita em aula.
 
-Requisitos não funcionais elicidados:
+## Terceira iteração - 21/09/2026 - Rachel Adolpho
 
-1. O programa como um todo não pode demorar mais de 5 segundos para concluir os cálculos
+Descrição: Realizada após estudo rápido de materiais que explicassem o modelo CAPM, para refinamento dos requisitos funcionais.
+
+Requisitos funcionais elicidados:
+
+1. Identificação de ativos disponíveis para negociação na B3 do Brasil;
+2. Seleção de ativos para cálculo do Retorno Médio, considerando um período de tempo pré-definido;
+3. Construção de médias de retorno para cada ativo e seus respectivos desvios padrão;
+4. Seleção de ativos para cálculo do Beta, que é a sensibilidade do ativo às oscilações de mercado;
+5. Seleção de ativos para cálculo do Retorno Esperado, considerando o Retorno Médio, o Beta e a Taxa livre de Risco;
+6. Construção de uma carteira considerando o portfólio ótimo;
+7. Seleção de ativos para cálculo do Alpha, considerando a diferença entre o retorno efetivo de um investimento e o retorno esperado com base no seu nível de risco.
 
 
 
