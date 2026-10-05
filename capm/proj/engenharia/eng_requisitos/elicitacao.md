@@ -62,4 +62,13 @@ Requisitos funcionais elicitados:
 7. Seleção de ativos para cálculo do Alpha, considerando a diferença entre o retorno efetivo de um investimento e o retorno esperado com base no seu nível de risco.
 
 
+## Quarta iteração - 05/10/2026 - Franco Mendes
 
+Descrição: Após conversa e esclarecimentos com o professor Nelson, ficou compreendido que os requisitos funcionais consistem nos objetivos listados abaixo.
+
+Requisitos funcionais elicitados:
+
+1. Calcular o beta dos ativos
+2. Calcular o alfa dos ativos (o alfa de Jansen, não o do artigo do Sharpe)
+3. O retorno e risco da carteira final do artigo do Sharpe (objetivo secundário)
+4. Calcular os preços dos ativos (objetivo principal do software)
